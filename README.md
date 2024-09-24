@@ -15,7 +15,7 @@
 ResolutionDistillation is an open-source library and is licensed under the [GNU General Public License (v3)](https://www.gnu.org/licenses/gpl-3.0.en.html). If you are using this library please cite:
 
 ```
-@article{DIPALMA2021102136,
+@article{resolution_distillation,
 title = {Resolution-based distillation for efficient histology image classification},
 journal = {Artificial Intelligence in Medicine},
 volume = {119},
